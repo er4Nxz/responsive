@@ -1,7 +1,7 @@
 .parallax {
   width: 100%;
   height: calc(100vh - 40px);
-  background: url("../../../../responsive/public/img/laptop.jpg");
+  background: url("../../img/laptop.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center center;

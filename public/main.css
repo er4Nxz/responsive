@@ -1,4 +1,4 @@
 @import url(./setting/setting.css);
-@import url(./query/mobile/mobile.css) only screen and (min-width: 420px);
+@import url(./query/mobile/mobile.css) only screen and (min-width: 320px);
 @import url(./query/desktop/desktop.css) only screen and
   (min-width: 1200px);
